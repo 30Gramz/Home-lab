@@ -20,4 +20,4 @@ Downloaded Oracle VirtualBox from the official website.
 
 Installed VirtualBox on the Windows 10 laptop, ensuring all default settings were selected.
 
-Verified the installation by launching VirtualBox and checking for any errors.
+Verified the installation by launching VirtualBox and checking for any errors..
