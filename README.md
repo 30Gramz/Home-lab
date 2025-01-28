@@ -16,7 +16,7 @@ Hardware Specifications:
 
 - Install Oracle VirtualBox:
 
-- Downloaded Oracle VirtualBox from the official website.
+- Downloaded Oracle VirtualBox from the <a href="https://www.virtualbox.org/">official website</a>.
 
 - Installed VirtualBox on the Windows 10 laptop, ensuring all default settings were selected.
 
@@ -25,7 +25,7 @@ Hardware Specifications:
  # Step 2: Downloading and Installing Ubuntu
 Download Ubuntu ISO:
 
-Downloaded the latest Ubuntu Server ISO from the official Ubuntu website https://www.virtualbox.org/
+Downloaded the latest Ubuntu Server ISO from the official Ubuntu website 
 
 Chose the LTS (Long-Term Support) version for stability.
 
