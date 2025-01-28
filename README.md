@@ -6,18 +6,18 @@ This document outlines the steps I took to create a home lab environment for pra
 # Step 1: Setting Up the Host Machine
 Hardware Specifications:
 
-Laptop: Windows 10 (64-bit)
+- Laptop: Windows 10 (64-bit)
 
-Processor: Intel Core i5 (or equivalent)
+- Processor: Intel Core i5 (or equivalent)
 
-RAM: 8GB (minimum recommended for running VMs)
+- RAM: 8GB (minimum recommended for running VMs)
 
-Storage: 256GB SSD (for faster performance)
+- Storage: 256GB SSD (for faster performance)
 
-Install Oracle VirtualBox:
+- Install Oracle VirtualBox:
 
-Downloaded Oracle VirtualBox from the official website.
+- Downloaded Oracle VirtualBox from the official website.
 
-Installed VirtualBox on the Windows 10 laptop, ensuring all default settings were selected.
+- Installed VirtualBox on the Windows 10 laptop, ensuring all default settings were selected.
 
-Verified the installation by launching VirtualBox and checking for any errors...
+- Verified the installation by launching VirtualBox and checking for any errors...
