@@ -25,7 +25,7 @@ Hardware Specifications:
  # Step 2: Downloading and Installing Ubuntu
 Download Ubuntu ISO:
 
-Downloaded the latest Ubuntu Server ISO from the official Ubuntu website 
+Downloaded the latest Ubuntu Server ISO from the <a href="https://ubuntu.com/download/desktop"> Official Ubuntu website </a>  
 
 Chose the LTS (Long-Term Support) version for stability.
 
