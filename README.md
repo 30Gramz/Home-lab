@@ -21,7 +21,7 @@ Hardware Specifications:
 
 - Storage: 256GB SSD (for faster performance)
 
-## Install Oracle VirtualBox:
+### Install Oracle VirtualBox:
 
 - Downloaded Oracle VirtualBox from the <a href="https://www.virtualbox.org/"> Virtualbox official website</a>.
 
