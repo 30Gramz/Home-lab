@@ -59,3 +59,7 @@ Partitioned the disk using the default settings.
 Set up a user account with a strong password.
 
 Completed the installation and rebooted the VM.
+
+Post-Installation Setup:
+
+Updated the system using the command:
