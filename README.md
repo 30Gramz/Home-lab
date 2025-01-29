@@ -8,9 +8,9 @@ This document outlines the steps I took to create a home lab environment for pra
 
 
 
-## Steps 
+# Steps 
 
-# Step 1: Setting Up the Host Machine
+## Step 1: Setting Up the Host Machine
 Hardware Specifications:
 
 - Laptop: Windows 10 (64-bit)
@@ -29,7 +29,7 @@ Hardware Specifications:
 
 - Verified the installation by launching VirtualBox and checking for any errors.
 
- # Step 2: Downloading and Installing Ubuntu
+ ## Step 2: Downloading and Installing Ubuntu
 ## Download Ubuntu ISO:
 
 - Downloaded the latest Ubuntu Server ISO from the <a href="https://ubuntu.com/download/desktop"> Official Ubuntu website </a>  
