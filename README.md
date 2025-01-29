@@ -30,13 +30,13 @@ This document outlines the steps I took to create a home lab environment for pra
 - Verified the installation by launching VirtualBox and checking for any errors.
 
  ## Step 2: Downloading and Installing Ubuntu
-## Download Ubuntu ISO:
+### Download Ubuntu ISO:
 
 - Downloaded the latest Ubuntu Server ISO from the <a href="https://ubuntu.com/download/desktop"> Official Ubuntu website </a>  
 
 - Chose the LTS (Long-Term Support) version for stability.
 
-## Create a New Virtual Machine:
+### Create a New Virtual Machine:
 
 - Opened VirtualBox and clicked New to create a new VM.
 
@@ -44,7 +44,7 @@ This document outlines the steps I took to create a home lab environment for pra
 
 - Allocated 2GB of RAM and created a 20GB virtual hard disk (VDI format, dynamically allocated).
 
-## Install Ubuntu on the VM:
+### Install Ubuntu on the VM:
 
 - Attached the Ubuntu ISO to the VM by going to Settings > Storage > Optical Drive and selecting the downloaded ISO.
 
