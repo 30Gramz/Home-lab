@@ -72,6 +72,6 @@ Installed essential tools like curl, git, and vim:
 
  ## Step 3: Configuring the Ubuntu VM for Security Testing
 
-## Install OpenSSH Server:
+### Install OpenSSH Server:
 
 - Installed OpenSSH to enable remote access:
