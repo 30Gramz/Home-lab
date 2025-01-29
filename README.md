@@ -45,9 +45,6 @@ Started the VM and followed the Ubuntu installation prompts:
 
 Selected Install Ubuntu.
 
-![image alt](https://github.com/30Gramz/Home-lab/blob/main/474569296_122199239900239604_6434277404112438612_n.jpg?raw=true)
-
-
 Configured the network settings (used DHCP for simplicity).
 
 Partitioned the disk using the default settings.
