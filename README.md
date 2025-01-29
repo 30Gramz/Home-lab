@@ -1,6 +1,7 @@
 # Home lab
 This document outlines the steps I took to create a home lab environment for practicing cybersecurity skills. The lab consists of a Windows 10 laptop running Oracle VirtualBox with Ubuntu as the primary virtual machine (VM). This setup allows me to simulate real-world scenarios, test tools, and practice vulnerability management, penetration testing, and incident response.
 
+{: style="text-align:center" }
 ![image alt](https://github.com/30Gramz/Home-lab/blob/374b2f5381915422eebdb2424fee292987ae71b3/Homelab.drawio.png?raw=true)
 
 # Steps 
