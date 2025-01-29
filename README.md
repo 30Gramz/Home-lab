@@ -21,7 +21,7 @@ Hardware Specifications:
 
 - Storage: 256GB SSD (for faster performance)
 
-- Install Oracle VirtualBox:
+## Install Oracle VirtualBox:
 
 - Downloaded Oracle VirtualBox from the <a href="https://www.virtualbox.org/"> Virtualbox official website</a>.
 
@@ -30,25 +30,25 @@ Hardware Specifications:
 - Verified the installation by launching VirtualBox and checking for any errors.
 
  # Step 2: Downloading and Installing Ubuntu
-Download Ubuntu ISO:
+## Download Ubuntu ISO:
 
-Downloaded the latest Ubuntu Server ISO from the <a href="https://ubuntu.com/download/desktop"> Official Ubuntu website </a>  
+- Downloaded the latest Ubuntu Server ISO from the <a href="https://ubuntu.com/download/desktop"> Official Ubuntu website </a>  
 
-Chose the LTS (Long-Term Support) version for stability.
+- Chose the LTS (Long-Term Support) version for stability.
 
-Create a New Virtual Machine:
+## Create a New Virtual Machine:
 
-Opened VirtualBox and clicked New to create a new VM.
+- Opened VirtualBox and clicked New to create a new VM.
 
-Named the VM Ubuntu-Server and selected Linux as the type and Ubuntu (64-bit) as the version.
+- Named the VM Ubuntu-Server and selected Linux as the type and Ubuntu (64-bit) as the version.
 
-Allocated 2GB of RAM and created a 20GB virtual hard disk (VDI format, dynamically allocated).
+- Allocated 2GB of RAM and created a 20GB virtual hard disk (VDI format, dynamically allocated).
 
-Install Ubuntu on the VM:
+## Install Ubuntu on the VM:
 
-Attached the Ubuntu ISO to the VM by going to Settings > Storage > Optical Drive and selecting the downloaded ISO.
+- Attached the Ubuntu ISO to the VM by going to Settings > Storage > Optical Drive and selecting the downloaded ISO.
 
-Started the VM and followed the Ubuntu installation prompts:
+- Started the VM and followed the Ubuntu installation prompts:
 
 Selected Install Ubuntu.
 
@@ -58,8 +58,8 @@ Partitioned the disk using the default settings.
 
 Set up a user account with a strong password.
 
-Completed the installation and rebooted the VM.
+- Completed the installation and rebooted the VM.
 
-Post-Installation Setup:
+## Post-Installation Setup:
 
 Updated the system using the command:
