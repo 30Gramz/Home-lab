@@ -11,7 +11,7 @@ This document outlines the steps I took to create a home lab environment for pra
 # Steps 
 
 ## Step 1: Setting Up the Host Machine
-Hardware Specifications:
+*Hardware Specifications:*
 
 - Laptop: Windows 10 (64-bit)
 
