@@ -70,7 +70,7 @@ Installed essential tools like curl, git, and vim:
 
  <img src="https://github.com/30Gramz/Home-lab/blob/6f4bb4c25111574333516409031ac5627a2d307e/update%20command%202.png">
 
- # Step 3: Configuring the Ubuntu VM for Security Testing
+ ## Step 3: Configuring the Ubuntu VM for Security Testing
 
 ## Install OpenSSH Server:
 
