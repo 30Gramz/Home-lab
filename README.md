@@ -67,3 +67,5 @@ Updated the system using the command:
  <img src="https://github.com/30Gramz/Home-lab/blob/eb8fad22ea56265f2e49ab39166a7c4c3c322e8e/update%20command.png">
 
 Installed essential tools like curl, git, and vim:
+
+ <img src="https://github.com/30Gramz/Home-lab/blob/6f4bb4c25111574333516409031ac5627a2d307e/update%20command%202.png">
