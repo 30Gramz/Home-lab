@@ -63,3 +63,7 @@ Set up a user account with a strong password.
 ## Post-Installation Setup:
 
 Updated the system using the command:
+
+
+
+  <img src="https://github.com/30Gramz/Home-lab/blob/eb8fad22ea56265f2e49ab39166a7c4c3c322e8e/update%20command.png">
