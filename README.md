@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://github.com/30Gramz/AI-Generated-Phishing-Email-Detection/blob/386d8a733dcf532fd1868691532145813aadd2de/images%20(1).png">
+</div>
 # Home lab
 This document outlines the steps I took to create a home lab environment for practicing cybersecurity skills. The lab consists of a Windows 10 laptop running Oracle VirtualBox with Ubuntu as the primary virtual machine (VM). This setup allows me to simulate real-world scenarios, test tools, and practice vulnerability management, penetration testing, and incident response.
 
