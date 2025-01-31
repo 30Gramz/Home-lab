@@ -84,4 +84,6 @@ Installed essential tools like curl, git, and vim:
   
 - Enabled and started the SSH service:
 
+  <img src="https://github.com/30Gramz/Home-lab/blob/ac5ef5686a9a60fb02d293e322df27e316785d54/Annotation%202.png">
+
 - Verified the SSH service is running:
