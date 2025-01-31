@@ -121,9 +121,9 @@ Installed essential tools like curl, git, and vim:
   A free version of Qualys' cloud-based security and compliance solutions, designed to help individuals, small teams, and cybersecurity enthusiasts explore and utilize Qualys' tools for vulnerability management and other security tasks. 
 
   
-  -- to learn more please click here []
+  -- to learn more please click here 
 
-  
+  <a href="https://github.com/30Gramz/Vulnerability-Management-Reporting-on-Qualys/blob/4767313cb8f43ffd0d4446dc3217e75d3244d13a/README.md">Qualys Project</a>
 
   
 
