@@ -123,6 +123,26 @@ Installed essential tools like curl, git, and vim:
   
    **to learn more please click here** <a href="https://github.com/30Gramz/Vulnerability-Management-Reporting-on-Qualys/blob/4767313cb8f43ffd0d4446dc3217e75d3244d13a/README.md">Qualys Project</a>
 
+
+## Step 4: Network Configuration  
+
+To simulate a realistic environment, I configured the network settings for my VMs.
+
+### Set Up Internal Networking:
+
+- In VirtualBox, went to **File > Host Network Manager** and created a new host-only network.
   
+- Assigned this network to my VMs in their network settings.
+  
+- Configured static IPs for my VMs to ensure consistent communication.
+
+### Enable Bridged Networking (Optional):
+
+- Enabled bridged networking in the VM settings to allow VMs to access the internet or my local network.
+  
+
+## Conclusion
+
+My home lab is now ready for practicing cybersecurity skills, with Qualys as the primary tool for vulnerability scanning. I can expand the lab further by adding more VMs, tools, or scenarios.
 
 
