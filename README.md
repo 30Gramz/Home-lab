@@ -99,4 +99,10 @@ Installed essential tools like curl, git, and vim:
 
 - Allowed SSH through the firewall:
 
+  <img src="https://github.com/30Gramz/Home-lab/blob/7ce8f39c6848ee04650ff63dd712d42265d839dd/Annotation%205.png">
+
+- Checked the status of UFW:
+
+  
+
 
