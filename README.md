@@ -94,3 +94,9 @@ Installed essential tools like curl, git, and vim:
 ### Configure Firewall (UFW):
 
 - Installed and enabled UFW (Uncomplicated Firewall):
+
+  <img src="https://github.com/30Gramz/Home-lab/blob/5855fa6695ca740947568e23f4733e18776f0203/Annotation%204.png">
+
+- Allowed SSH through the firewall:
+
+
