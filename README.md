@@ -112,6 +112,10 @@ Installed essential tools like curl, git, and vim:
 
   <img src="https://github.com/30Gramz/Home-lab/blob/38d3246c5c1b8997a136513534f73592bfec747a/Annotation%207.png">
 
+- For Wireshark, allowed non-superusers to capture packets:
+  
+  <img src="">
+
   
 
   
