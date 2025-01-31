@@ -89,3 +89,8 @@ Installed essential tools like curl, git, and vim:
 - Verified the SSH service is running:
 
   <img src="https://github.com/30Gramz/Home-lab/blob/893bdd2894b72adf33b6a1c7ddfdedf42e47adae/Annotation%203.png">
+
+
+### Configure Firewall (UFW):
+
+- Installed and enabled UFW (Uncomplicated Firewall):
