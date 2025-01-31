@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/30Gramz/Home-lab/blob/1aacbb2e87b8ebd97dc9be2ef9e3fca1ed9fee47/home-lab-logo-design-great-for-health-vector%20(1).jpg" width="300" hieght="300">    
+<img src="https://github.com/30Gramz/Home-lab/blob/1aacbb2e87b8ebd97dc9be2ef9e3fca1ed9fee47/home-lab-logo-design-great-for-health-vector%20(1).jpg" width="350" hieght="350">    
 </div>
 
 # Home lab
