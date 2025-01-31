@@ -114,7 +114,7 @@ Installed essential tools like curl, git, and vim:
 
 - For Wireshark, allowed non-superusers to capture packets:
   
-  <img src="">
+  <img src="https://github.com/30Gramz/Home-lab/blob/5dd28023f2cbbda1065bf52f18ce0c223b334b44/Annotation%208.png">
 
   
 
