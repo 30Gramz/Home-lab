@@ -79,6 +79,8 @@ Installed essential tools like curl, git, and vim:
 ### Install OpenSSH Server:
 
 - Installed OpenSSH to enable remote access:
+
+  <img src="https://github.com/30Gramz/Home-lab/blob/70abc365c8595d4c8622f3ad4edca3729de8140e/Annotation%202025-01-31%20095127.png">
   
 - Enabled and started the SSH service:
 
