@@ -116,6 +116,10 @@ Installed essential tools like curl, git, and vim:
   
   <img src="https://github.com/30Gramz/Home-lab/blob/5dd28023f2cbbda1065bf52f18ce0c223b334b44/Annotation%208.png">
 
+- Registered on the Qualys community edition
+
+  A free version of Qualys' cloud-based security and compliance solutions, designed to help individuals, small teams, and cybersecurity enthusiasts explore and utilize Qualys' tools for vulnerability management and other security tasks. 
+
   
 
   
