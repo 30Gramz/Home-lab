@@ -103,6 +103,8 @@ Installed essential tools like curl, git, and vim:
 
 - Checked the status of UFW:
 
+  <img src="https://github.com/30Gramz/Home-lab/blob/863e3d9f2657b9f0e0b56af0bef96dcb6cbf4d37/Annotation%206.png">
+
   
 
 
