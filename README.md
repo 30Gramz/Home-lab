@@ -79,3 +79,7 @@ Installed essential tools like curl, git, and vim:
 ### Install OpenSSH Server:
 
 - Installed OpenSSH to enable remote access:
+  
+- Enabled and started the SSH service:
+
+- Verified the SSH service is running:
